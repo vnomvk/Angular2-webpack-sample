@@ -12,7 +12,7 @@
 
       ->https://github.com/bradtraversy/meanauthapp/blob/master/angular-src/src/tsconfig.json
 
- # step-3:
+ # Step-3:
 
       ->npm install
       ->npm start 
